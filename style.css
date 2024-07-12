@@ -384,10 +384,6 @@ li.off {
 	opacity: 0.4;
 }
 
-.counterimg {
-	display: none;
-}
-
 @-webkit-keyframes playing /* Safari and Chrome */ {
   0% {
     -ms-transform: scale(1);
