@@ -96,3 +96,5 @@ function removePlayerBlock() {
     playerBlock.remove();
   }
 }
+
+document.getElementById("counterimg").style.opacity = "0";
