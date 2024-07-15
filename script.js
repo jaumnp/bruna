@@ -1,7 +1,11 @@
 const musics = [
   { name: "Pedrosa", song: "Terça De Tarde", mp3: "./terca.mp3", background: "./bg.jpg", poster: "./Isa.jpg" },
   { name: "Altamira, Pelé MilFlows", song: "Vem Cá", mp3: "./vemca.mp3", background: "./bg.jpg", poster: "./Isa3.jpg" },
-  { name: "Muitas pessoas kkk", song: "Poesia Acústica #9: Melhor Forma", mp3: "./poesia.mp3", background: "./bg.jpg", poster: "./Isa2.jpg" }
+  { name: "Muitas pessoas kkk", song: "Poesia Acústica #9: Melhor Forma", mp3: "./poesia.mp3", background: "./bg.jpg", poster: "./Isa2.jpg" }, 
+  { name: "Chord Overstreet", song: "Hold On", mp3: "./HoldOn.mp3", background: "./bg.jpg", poster: "./Isa4.jpg" }, 
+  { name: "Coldplay", song: "Sparks", mp3: "./Sparks.mp3", background: "./bg.jpg", poster: "./Isa5.jpg" }, 
+  { name: "gnash, Olivia O’Brien", song: "I Hate U, I Love U", mp3: "./ihateu.mp3", background: "./bg.jpg", poster: "./Isa6.jpg" }, 
+  { name: "Demi Lovato", song: "Cool for the Summer", mp3: "./CoolfortheSummer.mp3", background: "./bg.jpg", poster: "./Isa7.jpg" }
 ];
 
 let curId = 0;
