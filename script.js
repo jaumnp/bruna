@@ -4,7 +4,8 @@ const musics = [
   { name: "Pedrosa", song: "Terça De Tarde", mp3: "./terca.mp3", background: "./bg.jpg", poster: "./b2.jpg" },
   { name: "Altamira, Pelé MilFlows", song: "Vem Cá", mp3: "./vemca.mp3", background: "./bg.jpg", poster: "./b3.jpg" },
   { name: "1kilo", song: "De Love", mp3: "./delove.mp3", background: "./bg.jpg", poster: "./b4.jpg" }, 
-  { name: "Coldplay", song: "Sparks", mp3: "./Sparks.mp3", background: "./bg.jpg", poster: "./b5.jpg" }
+  { name: "Luísa Sonza, Baco Exu do Blues", song: "Surreal", mp3: "./surreal.mp3", background: "./bg.jpg", poster: "./b5.jpg" },
+  { name: "Baco Exu do Blues, Liniker", song: "pausa da sua tristeza", mp3: "./pausa.mp3", background: "./bg.jpg", poster: "./b6.jpg" }
 ];
 
 let curId = 0;
